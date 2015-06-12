@@ -8,11 +8,11 @@
 * [CodeAcademy](http://www.codecademy.com/)
 * [Code Visually - Web Developer Tools & Resources](http://codevisually.com/)
 
-#### Examples 
-* http://timmyomahony.com/
-* http://www.exomel.com/en
-* http://denisechandler.com/
-* http://matthewlettini.com/
-* http://hautmonde.ca/
-* http://www.baylesdev.com/
+#### Example Portfolios 
+* [1](http://timmyomahony.com/)
+* [2](http://www.exomel.com/en)
+* [3](http://denisechandler.com/)
+* [4](http://matthewlettini.com/)
+* [5](http://hautmonde.ca/)
+* [6](http://www.baylesdev.com/)
 
