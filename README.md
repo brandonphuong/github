@@ -11,7 +11,7 @@
 #### Example Portfolios  
 [1](http://timmyomahony.com/) [2](http://www.exomel.com/en) [3](http://denisechandler.com/) [4](http://matthewlettini.com/) [5](http://hautmonde.ca/) [6](http://www.baylesdev.com/)
 
-# Installation & Setup  
+# Installation & Setup   
 ## Installation  
 \# In terminal, type   
 ```$ sudo apt install git  
@@ -19,11 +19,13 @@ $ git config --global user.name "brandonphuong"
 $ git config --global user.email "brandonphuong@gmail.com"```  
 ## Setup   
 ####This is how to create a git repository using command line first, then linking it to Github.   
-```$ git init [directory]   
+~~~~
+$ git init [directory] 
 $ cd [directory]  
-$ echo "# comments " >> README.md  
+$ echo "# comments" >> README.md  
 $ git add -A  
 $ git commit -m "first commit"  
 $ git remote add origin [url.git]  
-$ git push -u origin master``` 
+$ git push -u origin master
+~~~~ 
 
