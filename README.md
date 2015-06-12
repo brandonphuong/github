@@ -7,7 +7,8 @@
 * [Intro to Git for Web Designers](http://www.webdesignerdepot.com/2009/03/intro-to-git-for-web-designers/)
 * [CodeAcademy](http://www.codecademy.com/)
 * [Code Visually - Web Developer Tools & Resources](http://codevisually.com/)
-#### Example Portfolios ####
+
+#### Examples 
 * http://timmyomahony.com/
 * http://www.exomel.com/en
 * http://denisechandler.com/
