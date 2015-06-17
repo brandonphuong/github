@@ -28,4 +28,4 @@ $ git add -A
 $ git commit -m "first commit"  
 $ git remote add origin [url.git]  
 $ git push -u origin master
-~~~~ 
+~~~~
